@@ -1,6 +1,6 @@
-# <div align="center"><div style="color:#448b5b;display:inline;">Effen</div> (by Aency)</div>
+# <div align="center"><div style="color:#448b5b;display:inline;">Tópicos V3</div> (by Kiti Co.)</div>
 
-<div align="center">• English / <a href="https://github.com/aencyproject/readme-portuguese.md">Português</a> •</div>
+<div align="center">• English / <a href="https://github.com/kiti-sites/topicos/readme-portuguese.md">Português</a> •</div>
 
 <br>
 
