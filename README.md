@@ -1,16 +1,6 @@
-### <div align="center">Join the Aency community now!</div>
-Connect with Effen users, share ideas, support, stay updated with new features and much more!
-
-<div align="center">
-<a href="https://dsc.gg/aency"><img src="https://img.shields.io/badge/Join%20Discord-5865F2?&logo=discord&logoColor=white" alt="Join Discord"></a>
-<a href="https://www.reddit.com/r/aency/" target="_blank"><img src="https://img.shields.io/badge/Join%20Reddit-FF4500?&logo=reddit&logoColor=white" alt="Join Reddit"></a>
-</div>
-
-
 # <div align="center"><div style="color:#448b5b;display:inline;">Effen</div> (by Aency)</div>
 
-<div align="center">• English / <a href="https://github.com/aencyproject/readme-spanish.md">Español</a> / <a href="https://github.com/aencyproject/readme-portuguese.md">Português</a> •</div>
-<div align="center">· <a href="#">Install</a> ·</div>
+<div align="center">• English / <a href="https://github.com/aencyproject/readme-portuguese.md">Português</a> •</div>
 
 <br>
 
